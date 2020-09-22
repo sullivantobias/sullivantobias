@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center"> Sullivan TOBIAS </h1>
 
-<!--
-**sullivantobias/sullivantobias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who is passionate about all Javascript Techs. 
 
-Here are some ideas to get you started:
+🔭 I’m currently working with [ReactJS](https://reactjs.org/) & [React Native](https://reactnative.dev/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me ?
+
+`Website` - [sullivantobias/github.io](sullivantobias/github.io)
+  
+<a href="https://github.com/sullivantobias/sullivantobias.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sullivantobias&repo=sullivantobias.github.io" />
+</a>
+<a href="https://github.com/sullivantobias/weather-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sullivantobias&repo=weather-app" />
+</a>
+
+ </br>
+ 
+ <a href="https://github.com/sullivantobias">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sullivantobias&show_icons=true" alt=sullivan />
+</a>
+<a href="https://github.com/sullivantobias">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sullivantobias&layout=compact" alt=sullivan />
+</a>
+
+
