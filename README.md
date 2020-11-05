@@ -2,7 +2,7 @@
 
 I'm a developer who is passionate about all Javascript Techs. 
 
-🔭 I’m currently working with [ReactJS](https://reactjs.org/) & [React Native](https://reactnative.dev/)
+🔭 I’m currently working with [ReactJS](https://reactjs.org/) & [FireBase](https://firebase.google.com/) & [React Native](https://reactnative.dev/)
 
 📫 Reach me ?
 
