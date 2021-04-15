@@ -2,7 +2,7 @@
 
 I'm a developer who is passionate about all Javascript Techs. 
 
-🔭 I’m currently working with [ReactJS](https://reactjs.org/)
+🔭 I’m currently working with [ReactJS](https://reactjs.org/) | [Jest](https://jestjs.io/) & [Enzyme](https://enzymejs.github.io/enzyme/)
 
 📫 Reach me ?
 
