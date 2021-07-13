@@ -6,7 +6,7 @@ I'm a developer who is passionate about all Javascript Techs.
 
 📫 Reach me ?
 
-`Website` - [sullivantobias.github.io](sullivantobias.github.io)
+`Website` - [https://sullivantobias.github.io/](sullivantobias.github.io)
 
 ---
 
