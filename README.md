@@ -11,7 +11,7 @@ I'm a developer who is passionate about all Javascript Techs.
 ---
 
 <div>
-  <a href="https://github.com/sullivantobias/sullivantobias.github.io">
+  <a href="https://github.com/sullivantobias/New-Portfolio">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sullivantobias&repo=New-Portfolio" />
   </a>
 </div>
