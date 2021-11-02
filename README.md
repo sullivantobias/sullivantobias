@@ -14,9 +14,6 @@ I'm a developer who is passionate about all Javascript Techs.
   <a href="https://github.com/sullivantobias/sullivantobias.github.io">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sullivantobias&repo=sullivantobias.github.io" />
   </a>
-  <a href="https://github.com/sullivantobias/weather-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sullivantobias&repo=weather-app" />
-  </a>
 </div>
 
 ---
