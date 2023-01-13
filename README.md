@@ -6,7 +6,8 @@ I'm mainly working on JavaScript environment.
 
 🔭 I’m currently working with [ReactJS](https://reactjs.org/) | [Node.js](https://nodejs.org) | [TypeScript](https://www.typescriptlang.org) | [React Testing Library](https://testing-library.com)
 
-🚧 WIP  [ThreeJS](https://threejs.org/) with [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+🚧 WIP  [ThreeJS](https://threejs.org/) with [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) |
+        [GSAP](https://greensock.com/gsap/)
 
 📫 Reach me ?
 
