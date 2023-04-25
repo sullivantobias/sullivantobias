@@ -4,7 +4,7 @@ I'm a developer who is passionate about all Techs.
 
 I'm mainly working on JavaScript environment.
 
-🔭 I’m currently working with [ReactJS](https://reactjs.org/) | [Node.js](https://nodejs.org) | [TypeScript](https://www.typescriptlang.org) | [React Testing Library](https://testing-library.com) | [AEM](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html)
+🔭 I’m currently working with [ReactJS](https://reactjs.org/) | [Redux](https://redux.js.org/) | [Node.js](https://nodejs.org) | [TypeScript](https://www.typescriptlang.org) | [React Testing Library](https://testing-library.com) | [AEM](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html)
 
 🚧 [React Native](https://reactnative.dev/) | [D3js](https://d3js.org/)
 
